@@ -10,16 +10,16 @@ Yeqiu Chen 路 Ziyan Liu 路 Hong Wang 路 Lei Liu
 
 </div>
 
-## 馃摪 News
+## News
 
 - **August 2026:** The official DeepContour project page is now available.
 - **Coming soon:** We are organizing the implementation and will release the complete code in this repository.
 
-## 馃攳 Introduction
+## Introduction
 
 DeepContour is a learning-guided framework for constructing integration contours in large-scale generalized eigensolvers. It predicts the target spectral distribution, identifies suitable spectral partitions, and constructs compact contours for contour-integral eigensolvers.
 
-## 鈿欙笍 Method
+## Method
 
 <p align="center">
   <img src="./assets/deepcontour_overview.png" width="900" alt="Overview of DeepContour">
@@ -27,7 +27,7 @@ DeepContour is a learning-guided framework for constructing integration contours
 
 DeepContour combines an Eigen Neural Operator with adaptive contour construction. The predicted eigenvalue distribution guides balanced spectral partitioning and contour placement, reducing unnecessary linear solves while preserving the target eigenvalue coverage.
 
-## 馃搱 Prediction Quality
+## Prediction Quality
 
 <p align="center">
   <img src="./assets/prediction_quality.png" width="760" alt="Effect of prediction quality">
@@ -35,7 +35,7 @@ DeepContour combines an Eigen Neural Operator with adaptive contour construction
 
 The quality of the predicted spectral distribution directly affects contour compactness, computational efficiency, and eigenvalue coverage.
 
-## 馃捇 Code
+## Code
 
 The implementation is being organized and verified for reproducibility. The complete training and solver code will be released here when it is ready.
 
