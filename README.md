@@ -6,7 +6,7 @@ Yeqiu Chen · Ziyan Liu · Hong Wang · Lei Liu
 
 **ICML 2026**
 
-[Dataset Generator](https://github.com/WanyeJJ/GEPBench) 路 [Citation](#citation)
+[Dataset Generator](https://github.com/WanyeJJ/GEPBench) · [Citation](#citation)
 
 </div>
 
