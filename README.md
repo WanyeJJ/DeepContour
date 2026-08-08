@@ -2,7 +2,7 @@
 
 # DeepContour: Learning-Guided Integration Contours Construction for Fast Large-Scale Generalized Eigensolvers
 
-Yeqiu Chen 路 Ziyan Liu 路 Hong Wang 路 Lei Liu
+Yeqiu Chen · Ziyan Liu · Hong Wang · Lei Liu
 
 **ICML 2026**
 
